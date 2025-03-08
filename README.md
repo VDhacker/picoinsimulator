@@ -1,5 +1,6 @@
 # This will explain you how to use this simulator
 
+## First open all the apps once, if windows defender says it is a risk, ignore it since you can check files with VirusTotal also to check if a file is a virus.
 
 - 1: Mining
 
