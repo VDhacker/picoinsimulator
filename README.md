@@ -1,4 +1,4 @@
-# This will explain you how to use this simulator
+# This will explain you how to use this simulator (btw this is Windows only app, for linux, pls use wine tool to run this)
 
 ## First open all the apps once, if windows defender says it is a risk, ignore it since you can check files with VirusTotal also to check if a file is a virus.
 ### Most of the antiviruses will say it is safe, but I do not know why 2 - 3 Antiviruses say it is unsafe, but it is safe, you can also sandbox it in all sandboxes, it will not harm anything.
